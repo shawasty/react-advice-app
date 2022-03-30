@@ -1,0 +1,38 @@
+.searchContainer{
+   
+   
+   
+   
+}
+input{
+    height: 80px;
+    width: 800px;
+    margin-left: 5%;
+    font-size:40px;
+    border-radius: 5%;
+    border: 3px solid;
+
+  
+  
+  
+}
+button{
+    display: flex;
+    justify-content: center;
+    margin-left: 45%;
+    margin-top: 10%;
+    color: crimson;
+    cursor: pointer;
+    margin-bottom: 10%;
+   
+}
+.advice{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: crimson;
+    font-weight: bolder;
+}
+p{
+    font-size: larger;
+    margin-top: 5%;
+}
