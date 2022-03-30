@@ -5,9 +5,10 @@
     padding: 5%;
     text-transform: capitalize;
     font-size:40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bolder;
     background-color: burlywood;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
     margin-top: 4%;
 }
 
@@ -22,10 +23,19 @@ button{
     width: 300px;
    margin-left: 45%;
    height: 70px;
-   background-color: rgb(43, 107, 86);
+   background-color: rgb(212, 212, 167);;
+   font-size: larger;
+   font-weight:bolder;
+   color: crimson;
+   border-radius: 5%;
+   cursor: pointer;
+   
 }
 p{
     background-color: inherit;
     color: crimson;
    
+}
+.random{
+    color: rgb(107, 190, 245);
 }

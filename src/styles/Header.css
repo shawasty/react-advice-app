@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
-header{
-    
-}
 
 ul{
     margin-top: 0;
@@ -46,4 +43,6 @@ li{
 
   *{
       background-color:#F7F4E9;
+      background-image: url('../images/img1.gif');
+      background-size: cover;
   }

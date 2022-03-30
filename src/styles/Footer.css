@@ -2,8 +2,11 @@
     display: flex;
     justify-content: center;
     background-color: rgb(152, 152, 243);
-    margin-top: 40%;
+    margin-top: 5%;
     height: 100px;
     position: relative;
 }
 
+h2{
+    background-color: inherit;
+}
